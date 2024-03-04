@@ -1,6 +1,6 @@
 # Greetings, fellow coder! 🚀
 
-I'm [Your Name], a curious explorer navigating the digital realms from [Your Location]. Welcome to my digital sanctuary on GitHub!
+I'm Michael, a curious explorer navigating the digital realms from Ghana. Welcome to my digital sanctuary on GitHub!
 
 ## About Me
 
